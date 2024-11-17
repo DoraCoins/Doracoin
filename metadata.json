@@ -1,0 +1,12 @@
+{
+  "name": "Dora Coin",
+  "symbol": "DORA",
+  "description": "Dora Coin is a decentralized token for staking and rewards.",
+  "image": "https://static.wikia.nocookie.net/doratheexplorer/images/d/d5/Dora-Backpack-looking-up-stock-art.png/revision/latest?cb=20221123212305",
+  "attributes": [
+    {
+      "trait_type": "Purpose",
+      "value": "Staking and Rewards"
+    }
+  ]
+}
